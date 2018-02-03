@@ -1,0 +1,12 @@
+{
+    "name": "TWDefault",
+    "description": "Default",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_pi-bplus.json",
+            "credentialsFile": "flows_pi-bplus_cred.json"
+        }
+    }
+}
