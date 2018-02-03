@@ -2,7 +2,10 @@
     "name": "TWDefault",
     "description": "Default",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-node-twitter": "0.1.12",
+        "node-red-dashboard": "2.8.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_pi-bplus.json",
