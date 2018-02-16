@@ -1,6 +1,6 @@
 {
     "name": "TWDefault",
-    "description": "Default",
+    "description": "News",
     "version": "0.0.1",
     "dependencies": {
         "node-red-node-twitter": "0.1.12",
