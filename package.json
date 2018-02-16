@@ -10,7 +10,8 @@
         "node-red-contrib-json": "0.2.0",
         "node-red-node-rbe": "0.2.1",
         "node-red-node-openweathermap": "0.2.0",
-        "node-red-node-pushover": "0.0.11"
+        "node-red-node-pushover": "0.0.11",
+        "node-red-contrib-alexa-home-skill": "0.1.17"
     },
     "node-red": {
         "settings": {
