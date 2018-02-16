@@ -5,7 +5,10 @@
     "dependencies": {
         "node-red-node-twitter": "0.1.12",
         "node-red-dashboard": "2.8.0",
-        "node-red-node-random": "0.1.0"
+        "node-red-node-random": "0.1.0",
+        "node-red-contrib-thingspeak": "0.0.4",
+        "node-red-contrib-json": "0.2.0",
+        "node-red-node-rbe": "0.2.1"
     },
     "node-red": {
         "settings": {
