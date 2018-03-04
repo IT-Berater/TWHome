@@ -1,6 +1,6 @@
 {
     "name": "TWDefault",
-    "description": "News",
+    "description": "Alle TWHome Flows",
     "version": "0.0.1",
     "dependencies": {
         "node-red-node-twitter": "0.1.12",
@@ -11,7 +11,8 @@
         "node-red-node-rbe": "0.2.1",
         "node-red-node-openweathermap": "0.2.0",
         "node-red-node-pushover": "0.0.11",
-        "node-red-contrib-alexa-home-skill": "0.1.17"
+        "node-red-contrib-alexa-home-skill": "0.1.17",
+        "node-red-contrib-advanced-ping": "1.2.0"
     },
     "node-red": {
         "settings": {
