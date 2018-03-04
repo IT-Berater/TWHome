@@ -12,5 +12,8 @@ Bisher sind folgende Flows implementiert:
 ### Umweltdaten
 
 ### Flugverkehr
+### Flugnotfall
+
+### Server Check
 
 Infos auf http://blog.wenzlaff.de
